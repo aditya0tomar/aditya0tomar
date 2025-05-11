@@ -2,8 +2,8 @@
   <img src="https://github.com/user-attachments/assets/053cf8d1-ac18-4f03-b8fb-b06adde3c61c" width="190px"/><p/>
 
 
-<h2 align="center" style="font-size:60px;">HII 😁, I'M ADITYA TOMAR</h2>
-<h2 align="center" style="font-size:20px;">A CODEYY FROM INDIA</h2>
+<h2 align="center" style="font-size:20px;">HII 😁, I'M ADITYA TOMAR </h2>
+<h2 align="center" style="font-size:20px;">A CODEYY FROM INDIA </h2>
 
 <p style="font-size:30px;"> 
 <p style="font-size:30px;">
@@ -44,6 +44,10 @@
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya0tomar&theme=tokyonight" alt="aditya0tomar" />
 <br/>
 
+<br/>
+<h2>Trophy's 🏆...</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aditya0tomar&theme=onedark)](https://github.com/aditya0tomar/github-profile-trophy)
 <!---
 aditya0tomar/aditya0tomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
