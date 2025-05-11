@@ -5,8 +5,8 @@
 <h2 align="center" style="font-size:60px;">HII 😁, I'M ADITYA TOMAR</h2>
 <h2 align="center" style="font-size:20px;">A CODEYY FROM INDIA</h2>
 
-<p style="font-size:20px;"> 
-<p style="font-size:20px;">
+<p style="font-size:30px;"> 
+<p style="font-size:30px;">
   • 👋 <strong>Heyy, How Are U...</strong><br>
   
   • 🌱 <strong>I’m currently learning BCA (DATA-SCIENCE)</strong><br>
