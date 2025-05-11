@@ -8,7 +8,7 @@
 
 - 👋 Hi,How Are U...
 - 🌱 I’m currently learning BCA (DATA-SCIENCE)
-- 📫 How to reach me adityasinghtomar0432@gmail.com
+- 📫 Reach Me: adityasinghtomar0432@gmail.com
 
 <!---
 aditya0tomar/aditya0tomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
