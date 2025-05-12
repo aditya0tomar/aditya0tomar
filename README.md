@@ -42,11 +42,14 @@
 
 <h2> Github Stats 📊...</h2> 
 <a href="https://github.com/aditya0tomar/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya0tomar&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya0tomar&theme=tokyonight" alt="aditya0tomar" />
-<br/>
+
 
 <br/>
-<h2>Trophy's 🏆...</h2>
+
+
+
+<h2> Trophy's 🏆...</h2>
+<p align="right">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aditya0tomar&theme=onedark)](https://github.com/aditya0tomar/github-profile-trophy)
 <!---
