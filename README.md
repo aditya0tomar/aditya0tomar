@@ -2,8 +2,8 @@
   <img src="https://github.com/user-attachments/assets/053cf8d1-ac18-4f03-b8fb-b06adde3c61c" width="190px"/><p/>
 
 
-<h2 align="center" style="font-size:20px;">HII 😁, I'M ADITYA TOMAR </h2>
-<h2 align="center" style="font-size:20px;">A CODEYY FROM INDIA </h2>
+<h1 align="center" style="font-size:100px;">HII 😁, I'M ADITYA TOMAR </h1>
+<h2 align="center">A CODEYY FROM INDIA </h2>
 
 <p style="font-size:30px;"> 
 <p style="font-size:30px;">
