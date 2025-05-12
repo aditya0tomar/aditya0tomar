@@ -38,20 +38,53 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
 </p>
 
-<br/> 
+<br> 
 
-<h2> Github Stats 📊...</h2> 
-<a href="https://github.com/aditya0tomar/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya0tomar&layout=compact&theme=tokyonight" /></a>
+  <h2>Streak Stats 💹...</h2>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/aditya0tomar/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aditya0tomar's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=aditya0tomar&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
+<br>
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+<h2>Github Stats ⚒️...</h2>
+<!--  -->
+
+<p align="left" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=aditya0tomar&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
+
+<br />
 
 
-<br/>
+ 
 
 
 
-<h2> Trophy's 🏆...</h2>
-<p align="right">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aditya0tomar&theme=onedark)](https://github.com/aditya0tomar/github-profile-trophy)
-<!---
-aditya0tomar/aditya0tomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
