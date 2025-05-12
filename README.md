@@ -51,17 +51,32 @@
   </p>
 <br>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-<h2>Github Stats ⚒️...</h2>
+<h2>Github Stats 📊...</h2>
 <!--  -->
-
-<p align="left" >
+<table>
+  <tr>
+    <td>
+<p align="top" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=aditya0tomar&&show_icons=true&theme=radical"/>
-  </a>
+    </a>
+  </td>
+  <td>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya0tomar&show_icons=true&hide_border=true&theme=radical"/>
+    </td>
+   </tr>
+</table>
+<br><br/>
 
-</p>
+<h2>Trophy's 🏆...</h2>
 
-<br />
+![trophy](https://github-profile-trophy.vercel.app/?username=aditya0tomar&theme=juicyfresh)
+
+<br><br/>
+
+
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 
  
