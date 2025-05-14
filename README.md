@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/053cf8d1-ac18-4f03-b8fb-b06adde3c61c" width="190px"/><p/>
+  <img src="https://github.com/user-attachments/assets/c14a1598-f957-4a62-ade8-619593dbf472" width="190px"/><p/>
 
 
 <h1 align="center" style="font-size:100px;">HII 😁, I'M ADITYA TOMAR </h1>
