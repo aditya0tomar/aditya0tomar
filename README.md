@@ -2,8 +2,11 @@
   <img src="https://github.com/user-attachments/assets/c14a1598-f957-4a62-ade8-619593dbf472" width="190px"/><p/>
 
 
-<h1 align="center" style="font-size:100px;">HII 😁, I'M ADITYA TOMAR </h1>
-<h2 align="center">A CODEYY FROM INDIA </h2>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/aditya0tomar/aditya0tomar/master/name.svg" alt="Aditya Tomar" />
+</h1>
+<h2 align="center">A CODEYY FROM INDIA
+</h2>
 
 <p style="font-size:30px;"> 
 <p style="font-size:30px;">
