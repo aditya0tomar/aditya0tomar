@@ -5,8 +5,9 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/aditya0tomar/aditya0tomar/master/name.svg" alt="Aditya Tomar" />
 </h1>
-<h2 align="center">A CODEYY FROM INDIA
-</h2>
+<h1 align="center">
+ <strong>A CODEYY FROM INDIA</strong>
+</h1>
 
 <p style="font-size:30px;"> 
 <p style="font-size:30px;">
