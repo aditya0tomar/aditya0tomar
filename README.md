@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/aditya0tomar/aditya0tomar/master/name.svg" alt="Aditya Tomar" />
+  <img src="https://raw.githubusercontent.com/aditya0tomar/aditya0tomar/master/name.svg" alt="💂HELLO BUDDYY💂" />
 </h1>
 <h1 align="center">
  <strong>A CODEYY FROM INDIA</strong>
